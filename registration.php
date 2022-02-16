@@ -6,7 +6,7 @@ include_once 'addRegistration.php';
 <html lang="en">
     <head>
         <link href=".css/login.css" rel="stylesheet">
-        <script> src=".js/registration.js" </script>
+        <script src=".js/registration.js"></script>
     </head>
     </div>
     <div class="header">
